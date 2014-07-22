@@ -8,12 +8,16 @@ msgstr ""
 "Project-Id-Version: FreePBX v2.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-09-16 14:07+0200\n"
-"PO-Revision-Date: 2008-11-05 00:26+0200\n"
-"Last-Translator: \n"
-"Language-Team: Chavdar Iliev <chavdar_75@yahoo.com>\n"
+"PO-Revision-Date: 2014-07-22 09:26+0200\n"
+"Last-Translator: Chavdar <chavdar_75@yahoo.com>\n"
+"Language-Team: Bulgarian "
+"<http://git.freepbx.org/projects/freepbx/inventorydb/bg/>\n"
+"Language: bg_BG\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 1.10-dev\n"
 "X-Poedit-Language: Bulgarian\n"
 "X-Poedit-Country: BULGARIA\n"
 "X-Poedit-SourceCharset: utf-8\n"
@@ -133,7 +137,7 @@ msgstr "Телефон Парола"
 
 #: page.inventorydb.php:263
 msgid " Phone Admin Password"
-msgstr "Телефон Админ Парола"
+msgstr " Телефон Админ Парола"
 
 #: page.inventorydb.php:272
 msgid "MAC Address"
@@ -195,4 +199,3 @@ msgstr "Приеми Промените"
 #: module.xml
 msgid "Inventory"
 msgstr "Опис База Данни"
-
